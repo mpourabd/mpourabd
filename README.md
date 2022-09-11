@@ -6,6 +6,7 @@
 - ✨Python is my interested language.
 - 📚This is my first course in data science which I passed in Coursera. You can find my certificate in <a href="https://www.credly.com/badges/ed241d2d-b8bb-426e-ac44-0ed1ea63992c/public_url">this link</a>
 
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 <h1>Technologies</h1>
 <ul> 
