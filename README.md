@@ -6,12 +6,10 @@
 - ✨Python is my interested language.
 - 📚This is my first course in data science which I passed in Coursera. You can find my certificate in <a href="https://www.credly.com/badges/ed241d2d-b8bb-426e-ac44-0ed1ea63992c/public_url">this link</a>
 
-<p>matlab</p>
 ![matlabIcon](https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-6/1024/MATLAB-icon.png)
-
+![mapleIcon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEC73G7_60MVA0x63p69KstCkGLGR27510Q&usqp=CAU)
 <h1>Technologies</h1>
 <ul> 
-  <li>MAPLE</li>
   <li>Python</li>
   <li>C</li>
   <li>C++</li>
