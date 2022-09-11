@@ -10,7 +10,7 @@ name: Update badges
 <h1>Technologies</h1>
 <ul> 
   <li>MATLAB
-    (https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png)
+    ![alt text](https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png)
   </li>
   <li>MAPLE</li>
   <li>Python</li>
