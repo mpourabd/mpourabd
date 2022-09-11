@@ -7,21 +7,8 @@
 - 📚This is my first course in data science which I passed in Coursera. You can find my certificate in <a href="https://www.credly.com/badges/ed241d2d-b8bb-426e-ac44-0ed1ea63992c/public_url">this link</a>
 name: Update badges
 
-on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
-jobs:
-  update-readme:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: <username_credly> # optional, but default will use the same from github
 <h1>Technologies</h1>
-<ul> 
+<ul style="backgroud-color: red;"> 
   <li>MATLAB</li>
   <li>MAPLE</li>
   <li>Python</li>
