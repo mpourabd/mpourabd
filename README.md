@@ -9,7 +9,7 @@
 
 <h1>Technologies</h1>
 <ul> 
-  <li>`#fffffff`Matlab</li>
+  <li>Matlab</li>
   <li>Maple</li>
   <li>Python</li>
   <li>C</li>
